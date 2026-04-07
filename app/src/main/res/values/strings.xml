@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">302_bbu_android_mobile_app</string>
+    <string name="bbu_logo">BBU Logo</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button_text">Login</string>
 </resources>
